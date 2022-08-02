@@ -1,0 +1,2 @@
+# Crane
+We are designing a 4-bar mechanism that has a 4-bar gripper mechanism. The gripper has PID control to apply the appropriate pressure on the object. The 4-bar mechanism will move to a specific location, start grabbing the object, then will move to a different location. It will keep the object held for a little while, then return to the starting position, and release its grip on the product.
